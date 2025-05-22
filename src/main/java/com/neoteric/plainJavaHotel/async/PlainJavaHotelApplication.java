@@ -1,4 +1,4 @@
-package com.neoteric.plainJavaHotel;
+package com.neoteric.plainJavaHotel.async;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
