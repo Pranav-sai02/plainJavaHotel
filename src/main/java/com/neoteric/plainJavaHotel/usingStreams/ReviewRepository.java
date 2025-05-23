@@ -1,4 +1,4 @@
-package com.neoteric.plainJavaHotel.async;
+package com.neoteric.plainJavaHotel.usingStreams;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
